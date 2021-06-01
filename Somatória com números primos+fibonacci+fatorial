@@ -1,3 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+#include <math.h>
+#include <locale.h>
+
 int primo(int n);
 int fibonacci(int n);
 int fatorial(int n);
